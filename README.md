@@ -4,9 +4,9 @@
 
 ### :file_folder: Diretories
 - Java-code
-  - BeakJoon [:link:Link](https://www.acmicpc.net/)
+  - BeakJoon [:link](https://www.acmicpc.net/)
 - C-code
-   - BeakJoon [:link:Link](https://www.acmicpc.net/)
+   - BeakJoon [:link](https://www.acmicpc.net/)
    - Epper Test : 이화여대 컴퓨터공학전공 코딩테스트
 - Python-code
    - Programmers
