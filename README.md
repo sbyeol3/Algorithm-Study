@@ -1,9 +1,12 @@
 # Algorithm-Study
-### 알고리즘 공부하면서 코드 작성한 것 올리기
+
+### :page_facing_up:알고리즘 문제 코드 저장소
+
+### :file_folder: Diretories
 - Java-code
-  - BeakJoon
+  - BeakJoon [:link:Link](https://www.acmicpc.net/)
 - C-code
-   - BeakJoon
-   - Epper Test
+   - BeakJoon [:link:Link](https://www.acmicpc.net/)
+   - Epper Test : 이화여대 컴퓨터공학전공 코딩테스트
 - Python-code
-   - BeakJoon
+   - Programmers
