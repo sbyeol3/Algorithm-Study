@@ -1,6 +1,6 @@
 # Algorithm-Study
 
-### :page_facing_up:알고리즘 문제 코드 저장소
+### repo 설명 : :page_facing_up:알고리즘 문제 코드 저장소
 
 ### :file_folder: Diretories
 - Java-code
