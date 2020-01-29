@@ -7,6 +7,7 @@
   - Lv 2-1. 전화번호 목록
     - [풀이 보기](https://hocheon.tistory.com/28)
   - Lv 2-2. 위장
+    - [풀이 보기](https://hocheon.tistory.com/30)
   - Lv 3. 베스트앨범
 
 ---
