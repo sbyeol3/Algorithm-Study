@@ -16,7 +16,3 @@ def solution(priorities, location):
       else : printCnt += 1 
 
     return printCnt
-
-priorities = [1,1,9,1,1,1]
-location = 0
-print(solution(priorities,location))
