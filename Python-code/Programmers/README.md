@@ -18,7 +18,9 @@
   - Lv 2-1. 탑
     - [풀이 보기](https://hocheon.tistory.com/32)
   - Lv 2-2. 다리를 지나는 트럭
+    - [풀이 보기](https://hocheon.tistory.com/37)
   - Lv 2-3. 기능개발
+    - [풀이 보기](https://hocheon.tistory.com/38)
   - Lv 2-4. 프린터
   - Lv 2-5. 쇠막대기
   - Lv 2-6. 주식가격
