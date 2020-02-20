@@ -32,6 +32,7 @@
   - Lv 1. K번째수
     - [풀이 보기](https://hocheon.tistory.com/47)
   - Lv 2-1. 가장 큰 수
+    - [풀이 보기](https://hocheon.tistory.com/48)
   - Lv 2-2. H-Index
   
 ---
