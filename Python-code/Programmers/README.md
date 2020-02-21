@@ -1,4 +1,4 @@
-# 프로그래머스 코딩테스트 연습
+# 프로그래머스 코딩테스트 연습 - 고득점 Kit
 
 > [TEST url](https://programmers.co.kr/learn/challenges)
 
