@@ -24,6 +24,7 @@
   - Lv 2-4. 프린터
     - [풀이 보기](https://hocheon.tistory.com/39)
   - Lv 2-5. 쇠막대기
+    - [풀이 보기](https://hocheon.tistory.com/49)
   - Lv 2-6. 주식가격
 
 ---
