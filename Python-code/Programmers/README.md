@@ -14,7 +14,7 @@
 
 ---
 
-### 스택/큐 (LIFO/FIFO)
+### 스택/큐 (LIFO/FIFO) -> Clear! :raised_hands:
   - Lv 2-1. 탑
     - [풀이 보기](https://hocheon.tistory.com/32)
   - Lv 2-2. 다리를 지나는 트럭
@@ -26,7 +26,8 @@
   - Lv 2-5. 쇠막대기
     - [풀이 보기](https://hocheon.tistory.com/49)
   - Lv 2-6. 주식가격
-
+    - [풀이 보기](https://hocheon.tistory.com/50)
+    
 ---
 
 ### 정렬
