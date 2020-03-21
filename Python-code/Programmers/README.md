@@ -38,3 +38,10 @@
   - Lv 2-2. H-Index
   
 ---
+
+### 힙
+  - Lv 2-1. 더 맵게
+    - [풀이 보기](https://hocheon.tistory.com/71)
+  - Lv 2-2. 라면공장
+    - [풀이 보기](https://hocheon.tistory.com/74)
+  - Lv 3. 디스크컨트롤러
