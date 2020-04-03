@@ -36,6 +36,7 @@
   - Lv 2-1. 가장 큰 수
     - [풀이 보기](https://hocheon.tistory.com/48)
   - Lv 2-2. H-Index
+    - [풀이 보기](https://hocheon.tistory.com/82)
   
 ---
 
@@ -45,3 +46,23 @@
   - Lv 2-2. 라면공장
     - [풀이 보기](https://hocheon.tistory.com/74)
   - Lv 3. 디스크컨트롤러
+
+---
+
+### 완전탐색
+  - Lv 1. 모의고사
+  - Lv 2-1. 소수찾기
+  - Lv 2-2. 숫자야구
+  - Lv 2-3. 카펫
+
+---
+
+### 탐욕법
+  - Lv 1. 체육복
+    - [풀이 보기](https://hocheon.tistory.com/83)
+  - Lv 2-1. 큰 수 만들기
+  - Lv 2-2. 조이스틱
+  - Lv 2-3. 구명보트
+  - Lv 3-1. 섬 연결하기
+  - Lv 3-2. 단속카메라
+  - Lv 3-3. 저울

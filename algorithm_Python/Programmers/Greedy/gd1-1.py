@@ -6,8 +6,7 @@ def solution(n, lost, reserve):
         reserve = list(filter(lambda x: x not in inter,reserve))
 
     for student in lost:
-        check = [student-1, student, student+1]
-        for c in check:
+        for c in [student-1, student+1]:
             if c in reserve:
                 reserve.remove(c)
                 lostNum += 1
