@@ -72,3 +72,10 @@
 ### Summer Winter Coding 2019
   - 멀쩡한 사각형
     - [풀이 보기](https://hocheon.tistory.com/93?category=909798)
+  - 종이접기
+
+---
+
+### 연습문제
+  - 124나라의 숫자
+    - [풀이 보기](https://hocheon.tistory.com/99)
