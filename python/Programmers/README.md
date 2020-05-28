@@ -61,4 +61,7 @@ _가끔 풀이를 올리지 않는 경우도 있습니다.. 까먹은 경우..._
   - ☑️ 최댓값과 최솟값 [풀이 보기](https://hocheon.tistory.com/102)
   - ☑️ JadenCase 문자열 [풀이 보기](https://hocheon.tistory.com/103)
   - ☑️ 점프와 순간이동 [풀이 보기](https://hocheon.tistory.com/104)
+  - ☑️ 짝지어 제거하기 [풀이 보기](https://hocheon.tistory.com/105)
+  - ☑️ 캐시 [풀이 보기](https://hocheon.tistory.com/106)
+  - ☑️ 후보키 [풀이 보기](https://hocheon.tistory.com/107)
   - ☑️ 종이접기
