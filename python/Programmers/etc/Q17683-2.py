@@ -2,7 +2,7 @@ from datetime import datetime
 def solution(m, musicinfos):
     def replaceFunc(s) :
         s = s.replace('A#','H')
-        s = s.replace('B#','I')
+        s = s.replace('F#','I')
         s = s.replace('C#','J')
         s = s.replace('D#','K')
         s = s.replace('G#','L')
