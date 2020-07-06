@@ -64,4 +64,8 @@ _가끔 풀이를 올리지 않는 경우도 있습니다.. 까먹은 경우..._
   - ☑️ 짝지어 제거하기 [풀이 보기](https://hocheon.tistory.com/105)
   - ☑️ 캐시 [풀이 보기](https://hocheon.tistory.com/106)
   - ☑️ 후보키 [풀이 보기](https://hocheon.tistory.com/107)
+  - ☑️ 예상대진표
+  - ☑️ 방금그곡 [풀이 보기](https://hocheon.tistory.com/108?category=909798)
   - ☑️ 종이접기
+  - ☑️ 튜플 [풀이 보기](https://hocheon.tistory.com/126?category=909798)
+  - ☑️ 폰켓몬 [풀이 보기](https://hocheon.tistory.com/127?category=909798)
