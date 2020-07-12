@@ -1,5 +1,5 @@
 class Solution:
-    def stringMatching(self, words: List[str]) -> List[str]:
+    def stringMatching(self, words):
         result = []
         length = len(words)
         
