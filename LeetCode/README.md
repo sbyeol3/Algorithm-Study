@@ -2,19 +2,19 @@
 
 ### Q1 ~ Q500
 
-# | Problem Title | Difficulty | Solved Date
+`#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---- | ---
 
 
-### Q501 ~ 1000
+### Q501 ~ Q1000
 
-# | Problem Title | Difficulty | Solved Date
+`#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---- | ---
 859 | Buddy Strings | Easy | 20/07/12
 
-### Q1001 ~ 1500
+### Q1001 ~ Q1500
 
-# | Problem Title | Difficulty | Solved Date
+`#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---- | ---
 1108 | Defanging an IP Address | Easy | 20/07/14
 1221 |Split a String in Balanced Strings | Easy | 20/07/12
@@ -30,9 +30,9 @@
 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | 20/07/14
 1496 | Path Crossing | Easy | 20/07/15
 
-### Q1501 ~ 2000
+### Q1501 ~ Q2000
 
-# | Problem Title | Difficulty | Solved Date
+`#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---- | ---
 
 ### week's records
