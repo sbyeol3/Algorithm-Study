@@ -1,5 +1,5 @@
 class Solution:
-    def destCity(self, paths: List[List[str]]) -> str:
+    def destCity(self, paths) -> str:
         desCities = []
         for cities in paths :
             desCities.append(cities[1])
