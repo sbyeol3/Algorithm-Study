@@ -1,11 +1,15 @@
 # LeetCode Solution with Python3
 
+## Solved Problems Tables
+
 ### Q1 ~ Q500
 
 `#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---
 1 | Two Sum | Easy | 20/07/15
-
+2 | Add Two Numbers | Medium | 20/07/15
+7 | Reverse Integer | Easy | 20/07/15
+35 | Search Insert Position | Easy | 20/07/15
 
 ### Q501 ~ Q1000
 
@@ -49,4 +53,4 @@
 month | week | easy | medium | hard
 --- | --- | --- | --- | ---
 2020.07 | 2 | 7 | 0 | 0
-2020.07 | 3 | 15 | 1 | 0
+2020.07 | 3 | 17 | 2 | 0
