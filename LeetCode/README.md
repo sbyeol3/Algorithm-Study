@@ -9,7 +9,10 @@
 1 | Two Sum | Easy | 20/07/15
 2 | Add Two Numbers | Medium | 20/07/15
 7 | Reverse Integer | Easy | 20/07/15
+21 | Merge Two Sorted Lists | Easy | 20/07/15
 35 | Search Insert Position | Easy | 20/07/15
+58 | Length of Last Word | Easy | 20/07/16
+83 | Remove Duplicates from Sorted List | Easy | 20/07/16
 
 ### Q501 ~ Q1000
 
@@ -53,4 +56,4 @@
 month | week | easy | medium | hard
 --- | --- | --- | --- | ---
 2020.07 | 2 | 7 | 0 | 0
-2020.07 | 3 | 17 | 2 | 0
+2020.07 | 3 | 20 | 2 | 0
