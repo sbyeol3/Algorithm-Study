@@ -13,6 +13,9 @@
 35 | Search Insert Position | Easy | 20/07/15
 58 | Length of Last Word | Easy | 20/07/16
 83 | Remove Duplicates from Sorted List | Easy | 20/07/16
+136 | Single Number | Easy | 20/07/16
+189 | Rotate Array | Easy | 20/07/17
+202 | Happy Number | Easy | 20/07/16
 
 ### Q501 ~ Q1000
 
@@ -56,4 +59,4 @@
 month | week | easy | medium | hard
 --- | --- | --- | --- | ---
 2020.07 | 2 | 7 | 0 | 0
-2020.07 | 3 | 20 | 2 | 0
+2020.07 | 3 | 23 | 2 | 0
