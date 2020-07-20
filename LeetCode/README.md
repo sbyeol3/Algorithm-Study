@@ -18,6 +18,8 @@
 202 | Happy Number | Easy | 20/07/16
 231 | Power of Two | Easy | 20/07/19
 258 | Add Digits | Easy | 20/07/19
+283 | Move Zeroes | Easy | 20/07/21
+389 | Find the Difference | Easy | 20/07/21
 
 ### Q501 ~ Q1000
 
@@ -62,3 +64,4 @@ month | week | easy | medium | hard
 --- | --- | --- | --- | ---
 2020.07 | 2 | 7 | 0 | 0
 2020.07 | 3 | 25 | 2 | 0
+2020.07 | 4 | 2 | 0 | 0
