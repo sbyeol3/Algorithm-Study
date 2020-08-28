@@ -13,6 +13,7 @@
 35 | Search Insert Position | Easy | 20/07/15
 58 | Length of Last Word | Easy | 20/07/16
 83 | Remove Duplicates from Sorted List | Easy | 20/07/16
+121 | Best Time to Buy and Sell Stock | Easy | 20/08/29
 136 | Single Number | Easy | 20/07/16
 189 | Rotate Array | Easy | 20/07/17
 202 | Happy Number | Easy | 20/07/16
@@ -28,6 +29,7 @@
 --- | --- | --- | ---
 561 | Array Partition I | Easy | 20/07/15
 700 | Search in a Binary Search Tree | Easy | 20/07/15
+746 | Min Cost Climbing Stairs | Easy | 20/08/29
 859 | Buddy Strings | Easy | 20/07/12
 
 ### Q1001 ~ Q1500
@@ -67,3 +69,4 @@ month | week | easy | medium | hard
 2020.07 | 3 | 25 | 2 | 0
 2020.07 | 4 | 2 | 0 | 0
 2020.08 | 1 | 1 | 0 | 0
+2020.08 | 5 | 2 | 0 | 0
