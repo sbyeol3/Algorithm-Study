@@ -11,15 +11,18 @@
 7 | Reverse Integer | Easy | 20/07/15
 21 | Merge Two Sorted Lists | Easy | 20/07/15
 35 | Search Insert Position | Easy | 20/07/15
+53 | Maximum Subarray | Easy | 20/08/29
 58 | Length of Last Word | Easy | 20/07/16
 83 | Remove Duplicates from Sorted List | Easy | 20/07/16
-121 | Best Time to Buy and Sell Stock | Easy | 20/08/29
+121 | Best Time to Buy and Sell Stock | Easy | 20/08/28
 136 | Single Number | Easy | 20/07/16
 189 | Rotate Array | Easy | 20/07/17
+198 | House Robber | Easy | 20/08/30
 202 | Happy Number | Easy | 20/07/16
 231 | Power of Two | Easy | 20/07/19
 258 | Add Digits | Easy | 20/07/19
 283 | Move Zeroes | Easy | 20/07/21
+303 | Range Sum Query - Immutable | Easy | 20/08/29
 389 | Find the Difference | Easy | 20/07/21
 412 | Fizz Buzz | Easy | 20/07/28
 
@@ -69,4 +72,4 @@ month | week | easy | medium | hard
 2020.07 | 3 | 25 | 2 | 0
 2020.07 | 4 | 2 | 0 | 0
 2020.08 | 1 | 1 | 0 | 0
-2020.08 | 5 | 2 | 0 | 0
+2020.08 | 5 | 4 | 0 | 0
