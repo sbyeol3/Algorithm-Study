@@ -13,6 +13,7 @@
 35 | Search Insert Position | Easy | 20/07/15
 53 | Maximum Subarray | Easy | 20/08/29
 58 | Length of Last Word | Easy | 20/07/16
+70 | Climbing Stairs | Easy | 20/09/06
 83 | Remove Duplicates from Sorted List | Easy | 20/07/16
 121 | Best Time to Buy and Sell Stock | Easy | 20/08/28
 136 | Single Number | Easy | 20/07/16
@@ -73,3 +74,4 @@ month | week | easy | medium | hard
 2020.07 | 4 | 2 | 0 | 0
 2020.08 | 1 | 1 | 0 | 0
 2020.08 | 5 | 4 | 0 | 0
+2020.09 | 1 | 1 | 0 | 0
