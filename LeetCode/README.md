@@ -9,6 +9,7 @@
 1 | Two Sum | Easy | 20/07/15
 2 | Add Two Numbers | Medium | 20/07/15
 7 | Reverse Integer | Easy | 20/07/15
+20 | Valid Parentheses | Easy | 20/12/25
 21 | Merge Two Sorted Lists | Easy | 20/07/15
 35 | Search Insert Position | Easy | 20/07/15
 53 | Maximum Subarray | Easy | 20/08/29
@@ -40,6 +41,8 @@
 
 `#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---
+1037 | Valid Boomerang | Easy | 20/12/24
+1043 | Partition Array for Maximum Sum | Easy | 20/12/25
 1108 | Defanging an IP Address | Easy | 20/07/14
 1221 | Split a String in Balanced Strings | Easy | 20/07/12
 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | 20/07/15
