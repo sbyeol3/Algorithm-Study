@@ -1,5 +1,14 @@
 # LeetCode Solution with Python3
 
+## Monthly records
+
+yyyy.mm | easy | medium | hard
+--- | --- | --- | ---
+2020.07 | 34 | 2 | 0
+2020.08 | 5 | 0 | 0
+2020.09 | 1 | 0 | 0
+2020.12 | 3 | 3 | 0
+
 ## Solved Problems Tables
 
 ### Q1 ~ Q500
@@ -27,6 +36,7 @@
 303 | Range Sum Query - Immutable | Easy | 20/08/29
 389 | Find the Difference | Easy | 20/07/21
 412 | Fizz Buzz | Easy | 20/07/28
+434 | Number of Segments in a String | Easy | 20/12/25
 
 ### Q501 ~ Q1000
 
@@ -42,7 +52,7 @@
 `#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---
 1037 | Valid Boomerang | Easy | 20/12/24
-1043 | Partition Array for Maximum Sum | Easy | 20/12/25
+1043 | Partition Array for Maximum Sum | Medium | 20/12/25
 1108 | Defanging an IP Address | Easy | 20/07/14
 1221 | Split a String in Balanced Strings | Easy | 20/07/12
 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | 20/07/15
@@ -67,14 +77,5 @@
 
 `#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---
-
-### week's records
-
-month | week | easy | medium | hard
---- | --- | --- | --- | ---
-2020.07 | 2 | 7 | 0 | 0
-2020.07 | 3 | 25 | 2 | 0
-2020.07 | 4 | 2 | 0 | 0
-2020.08 | 1 | 1 | 0 | 0
-2020.08 | 5 | 4 | 0 | 0
-2020.09 | 1 | 1 | 0 | 0
+1561 | Maximum Number of Coins You Can Get | Medium | 20/12/27
+1669 | Merge In Between Linked Lists | Medium | 20/12/27
