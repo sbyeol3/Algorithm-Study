@@ -7,7 +7,7 @@ yyyy.mm | easy | medium | hard
 2020.07 | 34 | 2 | 0
 2020.08 | 5 | 0 | 0
 2020.09 | 1 | 0 | 0
-2020.12 | 3 | 3 | 0
+2020.12 | 3 | 6 | 0
 
 ## Solved Problems Tables
 
@@ -21,12 +21,14 @@ yyyy.mm | easy | medium | hard
 20 | Valid Parentheses | Easy | 20/12/25
 21 | Merge Two Sorted Lists | Easy | 20/07/15
 35 | Search Insert Position | Easy | 20/07/15
+43 | Multiply Strings | Medium | 20/12/28
 53 | Maximum Subarray | Easy | 20/08/29
 58 | Length of Last Word | Easy | 20/07/16
 70 | Climbing Stairs | Easy | 20/09/06
 83 | Remove Duplicates from Sorted List | Easy | 20/07/16
 121 | Best Time to Buy and Sell Stock | Easy | 20/08/28
 136 | Single Number | Easy | 20/07/16
+146 | LRU Cache | Medium | 20/12/28
 189 | Rotate Array | Easy | 20/07/17
 198 | House Robber | Easy | 20/08/30
 202 | Happy Number | Easy | 20/07/16
@@ -63,6 +65,7 @@ yyyy.mm | easy | medium | hard
 1313 | Decompress Run-Length Encoded List | Easy | 20/07/15
 1342 | Number of Steps to Reduce a Number to Zero | Easy | 20/07/12
 1346 | Check If N and Its Double Exist | Easy | 20/07/15
+1381 | | Medium | 20/12/28
 1389 | Create Target Array in the Given Order | Easy | 20/07/15
 1408 | String Matching in an Array | Easy | 20/07/12
 1436 | Destination City | Easy | 20/07/13
@@ -78,4 +81,5 @@ yyyy.mm | easy | medium | hard
 `#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---
 1561 | Maximum Number of Coins You Can Get | Medium | 20/12/27
+1641 | Count Sorted Vowel Strings | Medium | 20/12/28
 1669 | Merge In Between Linked Lists | Medium | 20/12/27
