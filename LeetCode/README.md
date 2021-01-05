@@ -8,6 +8,7 @@ yyyy.mm | easy | medium | hard
 2020.08 | 5 | 0 | 0
 2020.09 | 1 | 0 | 0
 2020.12 | 3 | 6 | 0
+2021.01 | 0 | 3 | 0
 
 ## Solved Problems Tables
 
@@ -18,6 +19,7 @@ yyyy.mm | easy | medium | hard
 1 | Two Sum | Easy | 20/07/15
 2 | Add Two Numbers | Medium | 20/07/15
 7 | Reverse Integer | Easy | 20/07/15
+17 | Letter Combinations of a Phone Number | Medium | 21/01/04
 20 | Valid Parentheses | Easy | 20/12/25
 21 | Merge Two Sorted Lists | Easy | 20/07/15
 35 | Search Insert Position | Easy | 20/07/15
@@ -34,6 +36,7 @@ yyyy.mm | easy | medium | hard
 202 | Happy Number | Easy | 20/07/16
 231 | Power of Two | Easy | 20/07/19
 258 | Add Digits | Easy | 20/07/19
+279 | Perfect Squares | Medium | 21/01/04
 283 | Move Zeroes | Easy | 20/07/21
 303 | Range Sum Query - Immutable | Easy | 20/08/29
 389 | Find the Difference | Easy | 20/07/21
@@ -45,6 +48,7 @@ yyyy.mm | easy | medium | hard
 `#` | Problem Title | Difficulty | Solved Date
 --- | --- | --- | ---
 561 | Array Partition I | Easy | 20/07/15
+621 | Task Scheduler | Medium | 21/01/06
 700 | Search in a Binary Search Tree | Easy | 20/07/15
 746 | Min Cost Climbing Stairs | Easy | 20/08/29
 859 | Buddy Strings | Easy | 20/07/12
