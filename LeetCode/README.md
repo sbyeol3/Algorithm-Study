@@ -8,7 +8,7 @@ yyyy.mm | easy | medium | hard
 2020.08 | 5 | 0 | 0
 2020.09 | 1 | 0 | 0
 2020.12 | 3 | 6 | 0
-2021.01 | 0 | 3 | 0
+2021.01 | 0 | 5 | 0
 
 ## Solved Problems Tables
 
@@ -24,12 +24,15 @@ yyyy.mm | easy | medium | hard
 21 | Merge Two Sorted Lists | Easy | 20/07/15
 35 | Search Insert Position | Easy | 20/07/15
 43 | Multiply Strings | Medium | 20/12/28
+48 | Rotate Image | Medium | 21/01/06
 53 | Maximum Subarray | Easy | 20/08/29
 58 | Length of Last Word | Easy | 20/07/16
+62 | Unique Paths | Medium | 21/01/06
 70 | Climbing Stairs | Easy | 20/09/06
 83 | Remove Duplicates from Sorted List | Easy | 20/07/16
 121 | Best Time to Buy and Sell Stock | Easy | 20/08/28
 136 | Single Number | Easy | 20/07/16
+141 | Linked List Cycle | Easy | 21/01/06
 146 | LRU Cache | Medium | 20/12/28
 189 | Rotate Array | Easy | 20/07/17
 198 | House Robber | Easy | 20/08/30
