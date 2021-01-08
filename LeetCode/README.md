@@ -8,7 +8,7 @@ yyyy.mm | easy | medium | hard
 2020.08 | 5 | 0 | 0
 2020.09 | 1 | 0 | 0
 2020.12 | 3 | 6 | 0
-2021.01 | 1 | 7 | 0
+2021.01 | 1 | 8 | 0
 
 ## Solved Problems Tables
 
